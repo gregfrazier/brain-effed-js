@@ -1,4 +1,7 @@
 # brain-effed-js
+
+Added a new one, complete re-write for the heck of it. New version abuses arrays and has no input capabilities.
+
 Very simple Brainf*ck Interpreter in JavaScript
 
 The input method is terrible, needs to be changed for it to be useful.
